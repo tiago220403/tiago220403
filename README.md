@@ -23,5 +23,5 @@ An advocate for creating **responsive, accessible, and inclusive digital interfa
 ---
 
 ## 📊 GitHub Stats
-![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiago220403&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiago220403&layout=compact&theme=radical)
