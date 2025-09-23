@@ -8,7 +8,7 @@ An advocate for creating **responsive, accessible, and inclusive digital interfa
 ---
 
 ## 🌐 Connect with me
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/tiago-portella-53aa76264/))  
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-portella-53aa76264/)  
 
 ---
 
