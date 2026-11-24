@@ -6,7 +6,7 @@
   <img src="./assets/profile-banner.svg" width="720" alt="Responsive, accessible and inclusive web interfaces">
 </p>
 
-I build full stack web applications, from responsive, accessible interfaces to back-end logic and databases.
+I build full stack web applications with responsive, accessible interfaces, back-end logic, API integrations and databases.
 
 ## Tech stack
 
