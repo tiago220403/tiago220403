@@ -1,16 +1,18 @@
 <h1 align="center">Hi, I'm Tiago</h1>
 
-<p align="center"><strong>Front-end Developer</strong></p>
+<p align="center"><strong>Full Stack Developer</strong></p>
 
 <p align="center">
   <img src="./assets/profile-banner.svg" width="720" alt="Responsive, accessible and inclusive web interfaces">
 </p>
 
-I build responsive web interfaces with a focus on accessibility, inclusion and ease of use.
+I build full stack web applications, from responsive, accessible interfaces to back-end logic and databases.
 
 ## Tech stack
 
-**HTML5** · **CSS3** · **JavaScript** · **React** · **Tailwind CSS** · **Git**
+- **Front end** — React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
+- **Back end and database** — PHP, MySQL
+- **Version control** — Git
 
 ## Find me online
 
